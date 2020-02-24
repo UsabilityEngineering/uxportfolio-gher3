@@ -9,3 +9,4 @@ I am a Computer Science undergraduate and I took this class because I am interes
 
 ## UX Journal
 
+[Journal 1](Journal_1/)
